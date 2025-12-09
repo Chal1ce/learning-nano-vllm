@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Nano-vLLM Version](https://img.shields.io/badge/nano--vllm-0.11.2-green.svg)](https://github.com/GeeeekExplorer/nano-vllm)
 
-[📚 中文文档](#中文版本) | [📖 English Docs](#english-version) | [🔗 Wiki](https://github.com/Chal1ce/learning-nano-vllm/tree/main/nano-vllm-main/UnderstandArch)
+[📚 中文文档](#-中文版本) | [📖 English Docs](#-english-version) | [🔗 Wiki](https://github.com/Chal1ce/learning-nano-vllm/tree/main/nano-vllm-main/UnderstandArch)
 
 </div>
 
