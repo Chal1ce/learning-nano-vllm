@@ -2,4 +2,4 @@
 
 This document is based on nano-vllm 0.11.2; for details, please refer to the wiki in this repository.
 
-[🔗Link](https://github.com/Chal1ce/learning-nano-vllm/tree/main/nano-vllm-main/UnderstandArch) | [🔗链接](https://github.com/Chal1ce/learning-nano-vllm/tree/main/nano-vllm-main/UnderstandArch)
+[🔗Wiki Link](https://github.com/Chal1ce/learning-nano-vllm/tree/main/nano-vllm-main/UnderstandArch) | [🔗链接](https://github.com/Chal1ce/learning-nano-vllm/tree/main/nano-vllm-main/UnderstandArch)
